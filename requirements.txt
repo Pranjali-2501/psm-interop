@@ -6,7 +6,8 @@ google-api-python-client~=1.12
 google-cloud-secret-manager~=2.1
 google-cloud-monitoring~=2.18
 google-cloud-logging~=3.13
-grpcio~=1.74
+google-auth==2.48.0
+grpcio==1.78.0
 grpcio-health-checking~=1.74
 grpcio-tools~=1.74
 grpcio-channelz~=1.74

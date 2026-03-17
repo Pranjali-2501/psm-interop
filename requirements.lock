@@ -6,6 +6,7 @@ google-api-python-client==1.12.11
 google-cloud-secret-manager==2.26.0
 google-cloud-monitoring==2.29.1
 google-cloud-logging==3.14.0
+google-auth==2.48.0
 grpcio==1.78.0
 grpcio-health-checking==1.78.0
 grpcio-tools==1.78.0
@@ -19,14 +20,13 @@ Pygments==2.19.2
 python-dateutil==2.9.0.post0
 protobuf==6.33.5
 requests==2.31.0
-xds-protos==1.78.0
+xds-protos==1.78.1
 ## The following requirements were added by pip freeze:
 certifi==2026.2.25
 cffi==2.0.0
-charset-normalizer==3.4.5
+charset-normalizer==3.4.6
 cryptography==46.0.5
 google-api-core==2.30.0
-google-auth==2.49.1
 google-auth-httplib2==0.3.0
 google-cloud-appengine-logging==1.8.0
 google-cloud-audit-log==0.4.0
@@ -41,11 +41,13 @@ MarkupSafe==3.0.3
 oauthlib==3.3.1
 opentelemetry-api==1.40.0
 proto-plus==1.27.1
-pyasn1==0.6.2
+pyasn1==0.6.3
 pyasn1_modules==0.4.2
 pycparser==3.0
 pyparsing==3.3.2
 requests-oauthlib==2.0.0
+rsa==4.9.1
+setuptools==82.0.1
 uritemplate==3.0.1
 urllib3==2.6.3
 websocket-client==1.9.0
